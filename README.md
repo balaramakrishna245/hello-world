@@ -2,4 +2,5 @@
 A first repository
 hi there;
  A hardwork never fails.
- A sucess is not easy.
+ A sucess is not easy.   
+ make ur commits as soon as possible.
